@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# GIMP files, no need to send these in
+.xcf
+
 # Session Data files
 .RData
 .RDataTmp
